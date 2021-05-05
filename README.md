@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 <div display="inline-block">
-  <img src="https://github-readme-stats.vercel.app/api?username=sammurraytuesta&count_private=true&show_icons=true&hide=issues">
+  <img src="https://github-readme-stats.vercel.app/api?username=sammurraytuesta&count_private=true&show_icons=true&hide=issues&hide_border=true">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammurraytuesta&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammurraytuesta&layout=compacthide_border=true">
 </div>
 
