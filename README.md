@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ![Samantha's github stats](https://github-readme-stats.vercel.app/api?username=sammurraytuesta&count_private=true&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammurraytuesta)](https://github.com/sammurraytuesta/github-readme-stats)
+<div float="left">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammurraytuesta)](https://github.com/sammurraytuesta/github-readme-stats)
+</div>
