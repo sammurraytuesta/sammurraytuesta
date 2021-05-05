@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div display="inline-block" style="margin-top:0;">
+<div display="inline-block" margin-top="0">
   <img src="https://github-readme-stats.vercel.app/api?username=sammurraytuesta&count_private=true&show_icons=true&hide=issues&hide_border=true">
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammurraytuesta&layout=compact&hide_border=true">
