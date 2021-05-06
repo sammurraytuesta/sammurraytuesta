@@ -1,12 +1,6 @@
 ### Hi there 👋
-<style display="hidden">
-  .icons{
-    display: grid;
-    grid-template-columns: repeat(11, 1fr);
-  }
-</style>
 
-<div class="icons">
+<div disply="grid" grid-template-columns="repeat(11, 1fr)">
   <img alt="Java" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
   <img alt="Python" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
   <img alt="HTML5" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
