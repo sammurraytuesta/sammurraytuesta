@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <img alt="title" src="title.png">
 
 ### Programming Languages 📚 
