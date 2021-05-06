@@ -4,6 +4,11 @@
 <div display="inline-block">
   <img src="html5-brands.svg" width="50" height="50">
   <img src="css3-alt-brands.svg" width="50" height="50">
+  <img src="php-brands.svg" width="50" height="50">
+  <img src="database-solid.svg" width="50" height="50">
+  <img src="java-brands.svg" width="50" height="50">
+  <img src="python-brands.svg" width="50" height="50">
+  <img src="js-brands.svg" width="50" height="50">
 </div>
 
 <div display="inline-block">
