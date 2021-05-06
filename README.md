@@ -2,11 +2,7 @@
 
 ### About Me 👩🏻‍💻
 
-I am a first generation college student, in my second year studying Computer Science and Internet Studies at Western Washington University. At my institution, I am engaged in research specializing in digital privacy and its portrayal in the media. My work is aimed at creating a digital web game to engage students of all ages and teach the importance of digital privacy and how we go about advocating for those impacted by breaches in that privacy.
-
-Some of my favorite activities include playing piano and cello in my free time, reading, drawing, and designing digital web pages! I first fell in love with computer science through learning HTML and enjoy incorporating that love in my research and studies!
-
-Growing up, I often visited my mother's hometown of Chiclayo, Peru and consider it my second home. I have always grown up with a love of culture and hope to one day explore other cultures to broaden my world-view!
+I am a first generation college student, in my second year studying Computer Science and Internet Studies at Western Washington University. At my institution, I am engaged in research specializing in digital privacy and its portrayal in the media. My work is aimed at creating a digital web game to engage students of all ages and teach the importance of digital privacy and how we go about advocating for those impacted by breaches in that privacy. Check out my other projects below!
 
 ### Programming Languages 📚 
 
