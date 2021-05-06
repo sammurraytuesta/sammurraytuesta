@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="Java" height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
+<img alt="Java" height="80" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 
 <div display="inline-block">
   <img src="https://github-readme-stats.vercel.app/api?username=sammurraytuesta&count_private=true&show_icons=true&line_height=20&disable_animations=true">
