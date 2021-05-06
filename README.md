@@ -25,6 +25,11 @@
  
  <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
  
+<div display="inline-block">
+  <img src="https://github-readme-stats.vercel.app/api?username=sammurraytuesta&count_private=true&show_icons=true&line_height=20&disable_animations=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammurraytuesta&layout=compact">
+</div>
+
  #### Connect With Me!
  <div display="inline-block">
   <a href="mailto:smurraytuesta@gmail.com">
@@ -46,10 +51,5 @@
   <a href="mailto:smurraytuesta@gmail.com">
     <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   </a>
-</div>  
-<br>
-<div display="inline-block">
-  <img src="https://github-readme-stats.vercel.app/api?username=sammurraytuesta&count_private=true&show_icons=true&line_height=20&disable_animations=true">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammurraytuesta&layout=compact">
-</div>
+</div> 
 
