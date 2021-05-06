@@ -26,10 +26,6 @@ I am a first generation college student, in my second year studying Computer Sci
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
  </div>
  
- ### Text Editor 💻
- 
- <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
- 
 ### Statistics 📊
 
 <div display="inline-block">
