@@ -1,10 +1,9 @@
 ### Hi there 👋
-<style>
+<style display="hidden">
   .icons{
     display: grid;
     grid-template-columns: repeat(11, 1fr);
   }
-  
 </style>
 
 <div class="icons">
