@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-### Programming Languages 
+### Programming Languages 📚 
+
 <div display="inline-block">
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   &nbsp;
@@ -21,16 +22,19 @@
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
  </div>
  
- ### Preferred IDE
+ ### Preferred IDE 💻
  
  <img alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
  
+### Statistics 📊
+
 <div display="inline-block">
   <img src="https://github-readme-stats.vercel.app/api?username=sammurraytuesta&count_private=true&show_icons=true&line_height=20&disable_animations=true">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammurraytuesta&layout=compact">
 </div>
 
- ### Connect With Me!
+ ### Connect With Me! 📫
+ 
  <div display="inline-block">
   <a href="mailto:smurraytuesta@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -52,4 +56,15 @@
     <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   </a>
 </div> 
+  
+<!--
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
