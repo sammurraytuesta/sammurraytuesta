@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img alt="profile" src="github.png">
+
 ### Programming Languages 📚 
 
 <div display="inline-block">
