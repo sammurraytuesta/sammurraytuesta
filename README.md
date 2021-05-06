@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<-- Font Awesome Icons that can be found here: https://fontawesome.com/icons -->
+
 <img src="html5-brands.svg" width="50" height="50">
 
 <div display="inline-block">
