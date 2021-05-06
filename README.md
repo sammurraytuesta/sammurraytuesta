@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt="profile" src="github">
+<img alt="profile" src="profile.png">
 
 ### Programming Languages 📚 
 
