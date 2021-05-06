@@ -1,4 +1,4 @@
-<img alt="title" src="title.png">
+
 
 ### About Me 👩🏻‍💻
 
