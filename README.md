@@ -31,6 +31,8 @@ I am a first generation college student, in my second year studying Computer Sci
   
   <img alt="Latex" src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white">
   
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+  
  </div>
  
 ### Statistics 📊
