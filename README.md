@@ -65,4 +65,7 @@ I am a first generation college student, in my second year studying Computer Sci
     <img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
   </a>
 </div> 
+  
+ ### Resume! 📝  
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=sammurraytuesta&repo=sammurraytuesta">
 
