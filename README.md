@@ -66,7 +66,7 @@ I am a first generation college student, in my second year studying Computer Sci
   </a>
 </div> 
   
- ### Hire Me! 📝 
+ ### Resume! 📝 
   <a href="https://github.com/sammurraytuesta/resume">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sammurraytuesta&repo=Resume">
   </a>
